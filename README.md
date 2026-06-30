@@ -90,11 +90,7 @@ public class Sonika {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonika2207&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
-### 🏆 Trophy Wall
 
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=sonika2207&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
 
 ### 💼 Work Experience
 
@@ -144,19 +140,7 @@ public class Sonika {
 
 </div>
 
-### 🏅 Achievements
 
-<div align="center">
-
-| 🎖️ | Achievement | Details |
-|---|---|---|
-| 💻 | LeetCode Problem Solver | Solved 180+ problems covering Arrays, Strings, Linked Lists, Trees, and Dynamic Programming |
-| ☕ | NPTEL Programming in Java | Certified Elite + Gold |
-| 🤖 | FullStack with AI Internship | Completed 15-day intensive internship |
-| 🔧 | Git Training | Completed via Great Learning |
-| 📊 | Data Analytics Masterclass | Completed via Novitech |
-
-</div>
 
 ### 🎓 Education
 
