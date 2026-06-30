@@ -81,7 +81,7 @@ public class Sonika {
 ### 🔥 Streak Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=sonika2207&theme=tokyonight-duo"/>
+<img src="https://streak-stats.demolab.com?user=sonika2207&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 ### 📈 Activity Graph
@@ -93,7 +93,7 @@ public class Sonika {
 ### 🏆 Trophy Wall
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sonika2207&theme=tokyonight"/>
+<img src="https://github-trophies.vercel.app/?username=sonika2207&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ### 💼 Work Experience
@@ -138,12 +138,25 @@ public class Sonika {
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Car Rental System](https://github.com/sonika2207)** | React, Tailwind CSS, Flask, MySQL | Full-stack car rental platform with secure auth & role-based access; built vehicle booking, return management & CRUD via Flask APIs and MySQL; responsive React UI |
-| **[GeoStream](https://github.com/sonika2207)** | Python, OpenCV, FastAPI | AI-powered satellite image enhancement system; integrated RIFE frame interpolation & Real-ESRGAN super-resolution; FastAPI services for efficient low-res image processing |
+| **[Car Rental System](https://github.com/sonika2207/car-rental-system)** | React, Tailwind CSS, Flask, MySQL | Full-stack car rental platform with secure auth & role-based access; built vehicle booking, return management & CRUD via Flask APIs and MySQL; responsive React UI |
+| **[GeoStream](https://github.com/sonika2207/Geostream)** | Python, OpenCV, FastAPI | AI-powered satellite image enhancement system; integrated RIFE frame interpolation & Real-ESRGAN super-resolution; FastAPI services for efficient low-res image processing |
 | **[SparkIQ — AI Startup Validation Platform](https://github.com/sonika2207)** | Streamlit, FastAPI, LangGraph, HF | Multi-agent AI platform evaluating startup ideas & business viability; Market Analysis, Risk Assessment & Recommendation agents via LangGraph; automated LLM-generated validation reports |
 
 </div>
 
+### 🏅 Achievements
+
+<div align="center">
+
+| 🎖️ | Achievement | Details |
+|---|---|---|
+| 💻 | LeetCode Problem Solver | Solved 180+ problems covering Arrays, Strings, Linked Lists, Trees, and Dynamic Programming |
+| ☕ | NPTEL Programming in Java | Certified Elite + Gold |
+| 🤖 | FullStack with AI Internship | Completed 15-day intensive internship |
+| 🔧 | Git Training | Completed via Great Learning |
+| 📊 | Data Analytics Masterclass | Completed via Novitech |
+
+</div>
 
 ### 🎓 Education
 
